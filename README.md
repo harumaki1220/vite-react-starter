@@ -8,9 +8,9 @@ Vite + TypeScript + Reactで作られた、モダンなフロントエンド開�
 ## ✨ 主な特徴 (Features)
 
 - **開発環境**: Vite, React, TypeScript
-- **コード品質**: ESLint, Prettier (連携設定済み)
+- **コード品質**: ESLint, Prettier
 - **CI/CD**: GitHub Actionsによるテスト・ビルド・デプロイの自動化 (GitHub Pages)
-- **スタイリング**: CSS Modules と型定義の自動生成
+- **スタイリング**: Tailwind CSS, CSS Modules
 
 ## 🚀 プロジェクトの始め方 (Getting Started)
 
