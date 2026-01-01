@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "run-p dev:*",
     "dev:vite": "vite",
-    "dev:hcm": "tcm 'src/**/*.module.css' -w",
     "build": "npm run typecheck && vite build",
     "lint": "run-p lint:*",
     "lint:js": "eslint .",
